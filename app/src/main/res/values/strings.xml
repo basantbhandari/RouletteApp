@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Roulette app</string>
+    <string name="welcome_message">Score</string>
+    <string name="next">next</string>
+    <string name="out_img_des">outside circular wheel</string>
+    <string name="inner_img_des">pointer image</string>
+</resources>
